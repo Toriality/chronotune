@@ -1,7 +1,7 @@
 {
   "name": "chronotune",
   "private": true,
-  "homepage": "https://toriality.github.io/chronotune/",
+  "homepage": ".",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
