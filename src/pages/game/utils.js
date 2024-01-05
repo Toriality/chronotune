@@ -29,7 +29,7 @@ export function getRandomOffset() {
 
 export function login() {
   let client_id = "8ecffb9d750f40bdbee34807494346fb";
-  let redirect_id = `${window.location.href}/game`;
+  let redirect_id = `${window.location.href}game`;
 
   let state = generateRandomString(16);
 
