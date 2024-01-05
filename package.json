@@ -1,8 +1,8 @@
 {
-  "name": "chronotune_vite",
+  "name": "chronotune",
   "private": true,
-  "homepage": "https://toriality.github.io/chronotune",
-  "version": "0.0.0",
+  "homepage": "https://toriality.github.io/chronotune/",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
